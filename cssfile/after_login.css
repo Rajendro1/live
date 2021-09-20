@@ -1,0 +1,13 @@
+span {
+    margin-right: 62em;
+}
+
+.btn{
+    color: white;
+    background: purple;
+    padding: 4px 5px;
+    font-size: 15px;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+}
